@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0; 
+}
+.whole{
+	background-image: url(timg1.jpg);
+	background-size: 1366px 768px;
+}
+.phone{
+	width: 300px;
+	height: 570px;
+	margin: 30px auto;
+	border-radius: 30px;
+	border: 2px #250 solid;
+	background: black;
+}
+.top{
+	width: 200px;
+	height: 32px;
+	border: 0px #250 ;
+	margin:4px auto; 
+}
+.listen{
+	width: 70px;
+	height: 6px;
+	background: silver;
+	border-radius: 5px;
+	float: left;
+	margin-top: 4px;
+	margin-left: 64px;
+}
+.camera{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: silver;
+	float: left;
+	margin-left: 20px;
+	margin-top: 4px;
+}
+.light{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background: blue;
+	float: left;
+	margin-left: 18px;
+	margin-top: 2px;
+}
+.phonename{
+	width: 80px;
+	height: 25px;
+	margin: 14px auto 5px;
+	text-align: center;
+	color: silver;
+}
+.screen{
+	width: 280px;
+	height: 475px;
+	margin: 0 auto;
+	background-image: url(timg.jpg);
+	background-size: 280px 475px;
+}
+.home{
+	width: 80px;
+	height: 22px;
+	background: black;
+	border-radius: 10px;
+	margin: 10px auto;
+	border: 2px silver solid;
+}
